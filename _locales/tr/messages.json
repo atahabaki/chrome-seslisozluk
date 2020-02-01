@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Seslisözlükte ara",
+        "description": "Seçilen kelimeyi Seslisözlükte arar."
+    },
+    "extDesc": {
+        "message": "Seçilen kelimeyi Seslisözlükte aratır.",
+        "description": "Seçilen kelimeyi Seslisözlükte aratır."
+    },
+    "conTitle": {
+        "message": "Bunu Seslisözlükte ara",
+        "description": "Seçilen kelimeyi Seslisözlükte ara."
+    }
+} 

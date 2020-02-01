@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Search with Seslisözlük",
+        "description": "Search the selected word or words via Seslisözlük."
+    },
+    "extDesc": {
+        "message": "Search the selected word or words in Seslisözlük.",
+        "description": "Search the selected word or words in Seslisözlük."
+    },
+    "conTitle": {
+        "message": "Search this with Seslisözlük",
+        "description": "Search the selected word or words in Seslisözlük."
+    }
+}
